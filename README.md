@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="45%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
+  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="50%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
   </a allgn = "right"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
 </div>
 
