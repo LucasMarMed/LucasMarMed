@@ -3,6 +3,7 @@
 
 <!--
 ![Lucas Marques's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarMed&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&hide_progress=true&theme=dark)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,9 +12,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="45%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
+  </a allgn = "right"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
+</div>
 
-[![lumarque's 42 stats](https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&hide_progress=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
