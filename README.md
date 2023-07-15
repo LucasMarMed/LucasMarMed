@@ -1,23 +1,14 @@
 ###  
 
-
 <!--
 ![Lucas Marques's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarMed&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&hide_progress=true&theme=dark)
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 -->
 <div>
-  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="48%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
-  </a allgn = "right"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
+  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="51%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
+  </a allgn = "right"><img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
 </div>
-
-
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,11 +16,23 @@ Here are some ideas to get you started:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
+
+##
+
+- 📚 I am currently enrolled at 42Porto, where I have been exposed to the peer-to-peer learning methodology. This unique approach fosters the development of crucial team skills and underscores the significance of collaborative project work. It has enlightened me about the immense value of sharing experiences and seeking guidance from others when faced with challenges.
   
-  ##
+- 🔭 At present, my primary focus lies in furthering my knowledge and expertise in the field of software development, data science, and AI. I am committed to a continuous learning journey, constantly seeking opportunities to expand my understanding of these subjects.
+  
+- 🌱 Alongside my academic pursuits, I am actively engaged in acquiring practical skills in software development, data science, and AI. This involves hands-on projects and practical exercises, which enable me to consolidate my theoretical knowledge and gain valuable real-world experience.
+  
+- 🌍 I am keen on collaborating with projects that align with my area of study, where I can contribute my skills and expertise. However, I am also open to participating in initiatives that promote education and help others in their learning journeys. I firmly believe in the power of knowledge sharing and the positive impact it can have on individuals and communities.
+
+##
  
 <div> 
   <a href="https://instagram.com/lucasmarqz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,3 +40,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lucas-marques-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  
