@@ -4,10 +4,11 @@
 ![Lucas Marques's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarMed&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&hide_progress=true&theme=dark)
 Here are some ideas to get you started:
+[![lumarque's 42 stats](https://badge.mediaplus.ma/black/lumarque?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 -->
 <div>
-  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="51%" src="https://badge42.vercel.app/api/v2/cljx46u80004108jrsi2ufl0o/stats?cursusId=21&coalitionId=undefined" alt="lumarque's 42 stats" />
-  </a allgn = "right"><img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
+  <a href="https://github.com/oakoudad/badge42"><img width="38%" src="https://badge.mediaplus.ma/binary/lumarque?1337Badge=off&UM6P=off" alt="lumarque's 42 stats"/>
+  </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
 </div>
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
