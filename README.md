@@ -1,11 +1,5 @@
 ###  
 
-<!--
-![Lucas Marques's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarMed&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&hide_progress=true&theme=dark)
-Here are some ideas to get you started:
-[![lumarque's 42 stats](https://badge.mediaplus.ma/black/lumarque?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
--->
 <div>
   <a href="https://github.com/oakoudad/badge42"><img width="38%" src="https://badge.mediaplus.ma/binary/lumarque?1337Badge=off&UM6P=off" alt="lumarque's 42 stats"/>
   </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
@@ -22,6 +16,26 @@ Here are some ideas to get you started:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
+ 
+  ```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class ConstantlyDeveloping:
+
+    def __init__(self):
+        self.name = "Lucas Marques Medeiros"
+        self.role = "Student software development"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ConstantlyDeveloping()
+me.say_hi()
+```
 
 ##
 
@@ -34,12 +48,10 @@ Here are some ideas to get you started:
 - 🌍 I am keen on collaborating with projects that align with my area of study, where I can contribute my skills and expertise. However, I am also open to participating in initiatives that promote education and help others in their learning journeys. I firmly believe in the power of knowledge sharing and the positive impact it can have on individuals and communities.
 
 ##
- 
+
 <div> 
   <a href="https://instagram.com/lucasmarqz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas2marques.eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-marques-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-  
