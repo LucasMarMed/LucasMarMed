@@ -1,9 +1,9 @@
 ###  
 
-<div>
+<!--div>
   <a href="https://github.com/oakoudad/badge42"><img width="38%" src="https://badge.mediaplus.ma/binary/lumarque?1337Badge=off&UM6P=off" alt="lumarque's 42 stats"/>
-  </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
-</div>
+  </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=dark&shadow">
+</div-->
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
  
   ```python
