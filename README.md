@@ -40,9 +40,9 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<br clear="both">
 
-
-<img src="https://raw.githubusercontent.com/LucasMarMed/LucasMarMed/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucasmarmed/lucasmarmed/output/snake.svg" alt="Snake animation" />
 
 ##
 
