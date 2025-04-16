@@ -12,7 +12,7 @@ class ConstantlyDeveloping:
 
     def __init__(self):
         self.name = "Lucas Marques Medeiros"
-        self.role = "Student software development"
+        self.role = "Software Development"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
